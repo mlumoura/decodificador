@@ -1,6 +1,6 @@
 <h1 align="center"> Decodificador </h1>
-<h2 align="center"> Aplicação que criptografa e descriptografa textos, desenvolvida para o Challenge ONE
-Iniciante em Programação - Sprint 01: Construa um decodificador de texto com Javascript</h2><br>
+<h2 align="center"> Aplicação que criptografa e descriptografa textos (com responsividade), desenvolvida para o Challenge ONE
+Iniciante em Programação - Sprint 01: Construa um decodificador de texto com Javascript.</h2><br>
 
 <p align="center">
     <img src="images/logo_oracle_alura.svg"  width="600" height="100"/>
