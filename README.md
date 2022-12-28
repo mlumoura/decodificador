@@ -2,8 +2,12 @@
 <h2 align="center"> Aplicação que criptografa e descriptografa textos, desenvolvida para o Challenge ONE
 Iniciante em Programação - Sprint 01: Construa um decodificador de texto com Javascript</h2><br>
 
+<p align="center">
+    <img src="images/logo_oracle_alura.svg"  width="600" height="100"/>
+</p>
+
 <div align="center">
-<a  href="https://github.com/mlumoura/decodificador.git" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40"/></a>
+<a  href="https://mlumoura.github.io/decodificador/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40"/></a>
 </div>
 
 <h2> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> Tools and Technologies</h2>
